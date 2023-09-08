@@ -1,0 +1,11 @@
+.notResultsImg {    
+    width: 250px;
+    height: 150px;
+}
+
+.notResultsDescrip {    
+    font-size: 23px;
+    /* color: #5e51ed; */
+    color: #fff;
+    text-align: center;
+}
