@@ -1,0 +1,17 @@
+.byHourIcon {
+    height: 40px;
+    width: 55px;
+    object-fit: cover;
+}
+
+.byHourTemp {
+    font-weight: 600;
+}
+
+.byHourPopIcon {
+    color: #5e51ed;
+}
+
+.byHourPop {
+   font-size: 12px;
+}

@@ -1,3 +1,10 @@
+body {
+  background: url("./assets/background-1.jpg") no-repeat center center fixed;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+}
+
 .App {
   text-align: center;
 }
@@ -36,3 +43,4 @@
     transform: rotate(360deg);
   }
 }
+

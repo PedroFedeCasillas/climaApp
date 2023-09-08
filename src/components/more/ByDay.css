@@ -1,0 +1,25 @@
+.byDayDay{
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.byDayPopIcon {
+    color: #5e51ed;
+}
+
+.byDayPop {
+    width: 30px;
+    font-size: 13px;
+    margin-right: 5px;
+}
+
+.byDayIcon {
+    height: 35px;
+    width: 30px;
+    object-fit: cover;
+}
+
+.byDayTemp {
+    font-size: 15px;
+    font-weight: 600;
+}
