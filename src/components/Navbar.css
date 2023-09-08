@@ -1,0 +1,67 @@
+.navIcon {
+    height: 40px !important;
+    width: 40px !important;
+    margin-left: 7px;
+    margin-right: 7px;
+    transition: all 0.2s ease;
+    box-shadow: 0 0 0 0.1rem rgba(183, 178, 239, 1);
+    border-radius: 50px;
+}
+
+.navIcon:hover {
+    transform: scale(1.1);
+}
+
+.navSpace {    
+    margin-left: 5px;
+}
+
+.navTitle {
+    color: white;
+}
+
+.navSearchbar:focus,
+.navSearchbar:hover {
+    border-color: #7066e0 !important; /*pasar a global xd*/
+    box-shadow: 0 0 0 0.2rem rgba(183, 178, 239, 0.25) !important;
+}
+
+
+.navbtnMenu {
+    background-color: #7066e0 !important;
+    border-color: #b7b2ef  !important;
+    box-shadow: none !important;
+}
+.navbtnMenu:hover {
+    transform: scale(1.02);
+    box-shadow: 0 0 0 0.2rem rgba(183, 178, 239, 0.25) !important;
+}
+
+.navIconMenu {
+    color: white;
+    height: 25px;
+    width: 25px;
+}
+
+.navBtnSearch {
+    background-color: #7066e0 !important;
+    border-color: #b7b2ef  !important;
+} 
+
+.navBtnSearch:hover {
+    transform: scale(1.02);
+    box-shadow: 0 0 0 0.2rem rgba(183, 178, 239, 0.25) !important;
+}
+
+@media (max-width: 400px) {
+
+    .navIcon {
+        height: 35px !important;
+        width: 35px !important;
+    }
+
+    .navTitle {
+        font-size: 18px;
+    }
+  }
+
