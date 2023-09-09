@@ -54,7 +54,7 @@ const Navbar = () => {
                </Link>
                <span className="navTitle ms-1 me-1">Weather App</span>
                <SocialIcon target="_blank" rel="noreferrer" url="https://www.linkedin.com/in/pedro-fede-casillas-dev/" bgColor="#0a66c2" fgColor="#fff" className="navIcon"></SocialIcon>
-               <SocialIcon target="_blank" rel="noreferrer" url="https://github.com/PedroFedeCasillas" fgColor="#fff" className="navIcon"></SocialIcon>
+               <SocialIcon target="_blank" rel="noreferrer" url="https://github.com/PedroFedeCasillas/climaApp/tree/main" fgColor="#fff" className="navIcon"></SocialIcon>
             </div>
             <button className="navbar-toggler navbtnMenu" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                <FiMenu className="navIconMenu" />

@@ -6,7 +6,6 @@
     "@react-icons/all-files": "^4.1.0",
     "@reduxjs/toolkit": "^1.8.6",
     "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.5.2",
     "@types/node": "^16.11.65",
@@ -50,6 +49,7 @@
     ]
   },
   "devDependencies": {
+    "@testing-library/react": "^14.0.0",
     "@types/react-router-dom": "^5.3.3"
   }
 }
